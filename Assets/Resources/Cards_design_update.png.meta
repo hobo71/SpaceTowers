@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 210995c0c1f534c5998159738abb52ab
+timeCreated: 1456404784
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cards_design_update_0
+    21300002: Cards_design_update_1
+    21300004: Cards_design_update_2
+    21300006: Cards_design_update_3
+    21300008: Cards_design_update_4
+    21300010: Cards_design_update_5
+    21300012: Cards_design_update_6
+    21300014: Cards_design_update_7
+    21300016: Cards_design_update_8
+    21300018: Cards_design_update_9
+    21300020: Cards_design_update_10
+    21300022: Cards_design_update_11
+    21300024: Cards_design_update_12
+    21300026: Cards_design_update_13
+    21300028: Cards_design_update_14
+    21300030: Cards_design_update_15
+    21300032: Cards_design_update_16
+    21300034: Cards_design_update_17
+    21300036: Cards_design_update_18
+    21300038: Cards_design_update_19
+    21300040: Cards_design_update_20
+    21300042: Cards_design_update_21
+    21300044: Cards_design_update_22
+    21300046: Cards_design_update_23
+    21300048: Cards_design_update_24
+    21300050: Cards_design_update_25
+    21300052: Cards_design_update_26
+    21300054: Cards_design_update_27
+    21300056: Cards_design_update_28
+    21300058: Cards_design_update_29
+    21300060: Cards_design_update_30
+    21300062: Cards_design_update_31
+    21300064: Cards_design_update_32
+    21300066: Cards_design_update_33
+    21300068: Cards_design_update_34
+    21300070: Cards_design_update_35
+    21300072: Cards_design_update_36
+    21300074: Cards_design_update_37
+    21300076: Cards_design_update_38
+    21300078: Cards_design_update_39
+    21300080: Cards_design_update_40
+    21300082: Cards_design_update_41
+    21300084: Cards_design_update_42
+    21300086: Cards_design_update_43
+    21300088: Cards_design_update_44
+    21300090: Cards_design_update_45
+    21300092: Cards_design_update_46
+    21300094: Cards_design_update_47
+    21300096: Cards_design_update_48
+    21300098: Cards_design_update_49
+    21300100: Cards_design_update_50
+    21300102: Cards_design_update_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cards_design_update_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1095
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.58561, y: 104.63495}
+        - {x: -73.58561, y: 103.63495}
+        - {x: -73.58561, y: -100.36505}
+        - {x: -70.58561, y: -103.36505}
+        - {x: 73.41439, y: -103.36505}
+        - {x: 75.41439, y: -100.36505}
+        - {x: 75.41439, y: 102.63495}
+        - {x: 73.41439, y: 104.63495}
+    - name: Cards_design_update_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1095
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.01546, y: 104.63495}
+        - {x: -73.01546, y: 102.63495}
+        - {x: -73.01546, y: -103.36505}
+        - {x: 74.98454, y: -103.36505}
+        - {x: 74.98454, y: 103.63495}
+        - {x: 73.98454, y: 104.63495}
+    - name: Cards_design_update_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1093
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.3371, y: 102.91736}
+        - {x: 73.3371, y: 104.91736}
+        - {x: -70.6629, y: 104.91736}
+        - {x: -73.6629, y: 102.91736}
+        - {x: -73.6629, y: -101.08264}
+        - {x: -70.6629, y: -104.08264}
+        - {x: 72.3371, y: -104.08264}
+        - {x: 75.3371, y: -102.08264}
+    - name: Cards_design_update_3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1093
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.40726, y: 102.91736}
+        - {x: 72.40726, y: 104.91736}
+        - {x: -71.59274, y: 104.91736}
+        - {x: -73.59274, y: 103.91736}
+        - {x: -73.59274, y: -101.08264}
+        - {x: -70.59274, y: -104.08264}
+        - {x: 72.40726, y: -104.08264}
+        - {x: 75.40726, y: -101.08264}
+    - name: Cards_design_update_4
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1093
+        width: 240
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.97742, y: 104.91736}
+        - {x: -71.02258, y: 104.91736}
+        - {x: -73.02258, y: 102.91736}
+        - {x: -73.02258, y: -101.08264}
+        - {x: -70.02258, y: -104.08264}
+        - {x: 71.97742, y: -104.08264}
+        - {x: 74.97742, y: -101.08264}
+        - {x: 74.97742, y: 102.91736}
+    - name: Cards_design_update_5
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1093
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.329956, y: 104.91736}
+        - {x: -71.670044, y: 104.91736}
+        - {x: -73.670044, y: 102.91736}
+        - {x: -73.670044, y: -101.08264}
+        - {x: -70.670044, y: -104.08264}
+        - {x: 71.329956, y: -104.08264}
+        - {x: 75.329956, y: -102.08264}
+        - {x: 75.329956, y: 102.91736}
+    - name: Cards_design_update_6
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1093
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.400085, y: 102.91736}
+        - {x: 72.400085, y: 104.91736}
+        - {x: -71.599915, y: 104.91736}
+        - {x: -73.599915, y: 102.91736}
+        - {x: -73.599915, y: -101.08264}
+        - {x: -70.599915, y: -104.08264}
+        - {x: 71.400085, y: -104.08264}
+        - {x: 75.400085, y: -101.08264}
+    - name: Cards_design_update_7
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1093
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.252686, y: 104.91736}
+        - {x: -70.747314, y: 104.91736}
+        - {x: -73.747314, y: 101.91736}
+        - {x: -73.747314, y: -100.08264}
+        - {x: -69.747314, y: -104.08264}
+        - {x: 72.252686, y: -104.08264}
+        - {x: 75.252686, y: -101.08264}
+        - {x: 75.252686, y: 102.91736}
+    - name: Cards_design_update_8
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 1093
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.322754, y: 104.91736}
+        - {x: -71.677246, y: 104.91736}
+        - {x: -73.677246, y: 103.91736}
+        - {x: -73.677246, y: -101.08264}
+        - {x: -69.677246, y: -104.08264}
+        - {x: 72.322754, y: -104.08264}
+        - {x: 75.322754, y: -100.08264}
+        - {x: 75.322754, y: 102.91736}
+    - name: Cards_design_update_9
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 1093
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.392944, y: 101.91736}
+        - {x: 72.392944, y: 104.91736}
+        - {x: -71.607056, y: 104.91736}
+        - {x: -73.607056, y: 102.91736}
+        - {x: -73.607056, y: -101.08264}
+        - {x: -70.607056, y: -104.08264}
+        - {x: 71.392944, y: -104.08264}
+        - {x: 75.392944, y: -100.08264}
+    - name: Cards_design_update_10
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1093
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.24548, y: 102.91736}
+        - {x: 73.24548, y: 104.91736}
+        - {x: -70.75452, y: 104.91736}
+        - {x: -73.75452, y: 101.91736}
+        - {x: -73.75452, y: -100.08264}
+        - {x: -69.75452, y: -104.08264}
+        - {x: 72.24548, y: -104.08264}
+        - {x: 75.24548, y: -102.08264}
+    - name: Cards_design_update_11
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1093
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.315674, y: 104.91736}
+        - {x: -71.684326, y: 104.91736}
+        - {x: -73.684326, y: 103.91736}
+        - {x: -73.684326, y: -101.08264}
+        - {x: -69.684326, y: -104.08264}
+        - {x: 72.315674, y: -104.08264}
+        - {x: 75.315674, y: -100.08264}
+        - {x: 75.315674, y: 102.91736}
+    - name: Cards_design_update_12
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 1093
+        width: 240
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.385864, y: 104.91736}
+        - {x: -70.614136, y: 104.91736}
+        - {x: -72.614136, y: 102.91736}
+        - {x: -72.614136, y: -101.08264}
+        - {x: -69.614136, y: -104.08264}
+        - {x: 72.385864, y: -104.08264}
+        - {x: 74.385864, y: -102.08264}
+        - {x: 74.385864, y: 103.91736}
+    - name: Cards_design_update_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 737
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.41439, y: 103.184906}
+        - {x: 72.41439, y: 105.184906}
+        - {x: -70.58561, y: 105.184906}
+        - {x: -73.58561, y: 102.184906}
+        - {x: -73.58561, y: -100.815094}
+        - {x: -71.58561, y: -103.815094}
+        - {x: 72.41439, y: -103.815094}
+        - {x: 75.41439, y: -100.815094}
+    - name: Cards_design_update_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 737
+        width: 240
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.01546, y: 105.184906}
+        - {x: -73.01546, y: -100.815094}
+        - {x: -70.01546, y: -103.815094}
+        - {x: 71.98454, y: -103.815094}
+        - {x: 74.98454, y: -100.815094}
+        - {x: 74.98454, y: 105.184906}
+    - name: Cards_design_update_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 737
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.3371, y: 105.184906}
+        - {x: -70.6629, y: 105.184906}
+        - {x: -73.6629, y: 103.184906}
+        - {x: -73.6629, y: -100.815094}
+        - {x: -71.6629, y: -103.815094}
+        - {x: 73.3371, y: -103.815094}
+        - {x: 75.3371, y: -100.815094}
+        - {x: 75.3371, y: 103.184906}
+    - name: Cards_design_update_16
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 737
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.40726, y: 103.184906}
+        - {x: 72.40726, y: 105.184906}
+        - {x: -71.59274, y: 105.184906}
+        - {x: -73.59274, y: 104.184906}
+        - {x: -73.59274, y: -100.815094}
+        - {x: -71.59274, y: -103.815094}
+        - {x: 72.40726, y: -103.815094}
+        - {x: 75.40726, y: -100.815094}
+    - name: Cards_design_update_17
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 737
+        width: 240
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.02258, y: 105.184906}
+        - {x: -73.02258, y: -100.815094}
+        - {x: -70.02258, y: -103.815094}
+        - {x: 71.97742, y: -103.815094}
+        - {x: 74.97742, y: -100.815094}
+        - {x: 74.97742, y: 105.184906}
+    - name: Cards_design_update_18
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 737
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.329956, y: 105.184906}
+        - {x: -70.670044, y: 105.184906}
+        - {x: -73.670044, y: 103.184906}
+        - {x: -73.670044, y: -100.815094}
+        - {x: -71.670044, y: -103.815094}
+        - {x: 72.329956, y: -103.815094}
+        - {x: 75.329956, y: -101.815094}
+        - {x: 75.329956, y: 102.184906}
+    - name: Cards_design_update_19
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 737
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.400085, y: 105.184906}
+        - {x: -71.599915, y: 105.184906}
+        - {x: -73.599915, y: 104.184906}
+        - {x: -73.599915, y: -100.815094}
+        - {x: -71.599915, y: -103.815094}
+        - {x: 71.400085, y: -103.815094}
+        - {x: 75.400085, y: -100.815094}
+        - {x: 75.400085, y: 102.184906}
+    - name: Cards_design_update_20
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 737
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.747314, y: 105.184906}
+        - {x: -73.747314, y: 102.184906}
+        - {x: -73.747314, y: -99.815094}
+        - {x: -69.747314, y: -103.815094}
+        - {x: 72.252686, y: -103.815094}
+        - {x: 75.252686, y: -100.815094}
+        - {x: 75.252686, y: 103.184906}
+        - {x: 73.252686, y: 105.184906}
+    - name: Cards_design_update_21
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 737
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.322754, y: 105.184906}
+        - {x: -70.677246, y: 105.184906}
+        - {x: -73.677246, y: 102.184906}
+        - {x: -73.677246, y: -101.815094}
+        - {x: -72.677246, y: -103.815094}
+        - {x: 73.322754, y: -103.815094}
+        - {x: 75.322754, y: -101.815094}
+        - {x: 75.322754, y: 102.184906}
+    - name: Cards_design_update_22
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 735
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.392944, y: 101.967285}
+        - {x: 73.392944, y: 104.967285}
+        - {x: -71.607056, y: 104.967285}
+        - {x: -73.607056, y: 102.967285}
+        - {x: -73.607056, y: -101.032715}
+        - {x: -71.607056, y: -104.032715}
+        - {x: 72.392944, y: -104.032715}
+        - {x: 75.392944, y: -100.032715}
+    - name: Cards_design_update_23
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 735
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.24548, y: 104.967285}
+        - {x: -70.75452, y: 104.967285}
+        - {x: -73.75452, y: 101.967285}
+        - {x: -73.75452, y: -100.032715}
+        - {x: -70.75452, y: -104.032715}
+        - {x: 72.24548, y: -104.032715}
+        - {x: 75.24548, y: -101.032715}
+        - {x: 75.24548, y: 102.967285}
+    - name: Cards_design_update_24
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 735
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.315674, y: 104.967285}
+        - {x: -71.684326, y: 104.967285}
+        - {x: -73.684326, y: 103.967285}
+        - {x: -73.684326, y: -101.032715}
+        - {x: -70.684326, y: -104.032715}
+        - {x: 71.315674, y: -104.032715}
+        - {x: 75.315674, y: -102.032715}
+        - {x: 75.315674, y: 101.967285}
+    - name: Cards_design_update_25
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 735
+        width: 240
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.614136, y: 104.967285}
+        - {x: -72.614136, y: 102.967285}
+        - {x: -72.614136, y: -101.032715}
+        - {x: -70.614136, y: -104.032715}
+        - {x: 72.385864, y: -104.032715}
+        - {x: 74.385864, y: -102.032715}
+        - {x: 74.385864, y: 104.967285}
+    - name: Cards_design_update_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 381
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.58561, y: 104.95244}
+        - {x: -73.58561, y: 102.95244}
+        - {x: -73.58561, y: -100.04756}
+        - {x: -70.58561, y: -103.04756}
+        - {x: 73.41439, y: -103.04756}
+        - {x: 75.41439, y: -100.04756}
+        - {x: 75.41439, y: 102.95244}
+        - {x: 73.41439, y: 104.95244}
+    - name: Cards_design_update_27
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 381
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.98454, y: 104.95244}
+        - {x: -71.01546, y: 104.95244}
+        - {x: -73.01546, y: 102.95244}
+        - {x: -73.01546, y: -100.04756}
+        - {x: -70.01546, y: -103.04756}
+        - {x: 72.98454, y: -103.04756}
+        - {x: 74.98454, y: -102.04756}
+        - {x: 74.98454, y: 103.95244}
+    - name: Cards_design_update_28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 381
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.6629, y: 104.95244}
+        - {x: -73.6629, y: 103.95244}
+        - {x: -73.6629, y: -100.04756}
+        - {x: -70.6629, y: -103.04756}
+        - {x: 72.3371, y: -103.04756}
+        - {x: 75.3371, y: -100.04756}
+        - {x: 75.3371, y: 103.95244}
+        - {x: 74.3371, y: 104.95244}
+    - name: Cards_design_update_29
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 381
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.40726, y: 104.95244}
+        - {x: -73.59274, y: 104.95244}
+        - {x: -73.59274, y: -100.04756}
+        - {x: -70.59274, y: -103.04756}
+        - {x: 72.40726, y: -103.04756}
+        - {x: 75.40726, y: -100.04756}
+        - {x: 75.40726, y: 102.95244}
+    - name: Cards_design_update_30
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 381
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.02258, y: 104.95244}
+        - {x: -73.02258, y: -100.04756}
+        - {x: -70.02258, y: -103.04756}
+        - {x: 71.97742, y: -103.04756}
+        - {x: 74.97742, y: -100.04756}
+        - {x: 74.97742, y: 103.95244}
+        - {x: 73.97742, y: 104.95244}
+    - name: Cards_design_update_31
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 381
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.670044, y: 104.95244}
+        - {x: -73.670044, y: 102.95244}
+        - {x: -73.670044, y: -101.04756}
+        - {x: -70.670044, y: -103.04756}
+        - {x: 72.329956, y: -103.04756}
+        - {x: 75.329956, y: -100.04756}
+        - {x: 75.329956, y: 103.95244}
+        - {x: 74.329956, y: 104.95244}
+    - name: Cards_design_update_32
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 381
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.400085, y: 104.95244}
+        - {x: -73.599915, y: 104.95244}
+        - {x: -73.599915, y: -100.04756}
+        - {x: -70.599915, y: -103.04756}
+        - {x: 72.400085, y: -103.04756}
+        - {x: 75.400085, y: -100.04756}
+        - {x: 75.400085, y: 102.95244}
+    - name: Cards_design_update_33
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 381
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.747314, y: 104.95244}
+        - {x: -73.747314, y: 102.95244}
+        - {x: -73.747314, y: -100.04756}
+        - {x: -70.747314, y: -103.04756}
+        - {x: 72.252686, y: -103.04756}
+        - {x: 75.252686, y: -100.04756}
+        - {x: 75.252686, y: 103.95244}
+        - {x: 74.252686, y: 104.95244}
+    - name: Cards_design_update_34
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 381
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.677246, y: 104.95244}
+        - {x: -73.677246, y: 103.95244}
+        - {x: -73.677246, y: -101.04756}
+        - {x: -70.677246, y: -103.04756}
+        - {x: 73.322754, y: -103.04756}
+        - {x: 75.322754, y: -100.04756}
+        - {x: 75.322754, y: 102.95244}
+        - {x: 73.322754, y: 104.95244}
+    - name: Cards_design_update_35
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 378
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.392944, y: 101.12604}
+        - {x: 73.392944, y: 104.12604}
+        - {x: -71.607056, y: 104.12604}
+        - {x: -73.607056, y: 103.12604}
+        - {x: -73.607056, y: -101.87396}
+        - {x: -71.607056, y: -103.87396}
+        - {x: 73.392944, y: -103.87396}
+        - {x: 75.392944, y: -101.87396}
+    - name: Cards_design_update_36
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 378
+        width: 243
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.58093, y: 104.12604}
+        - {x: -73.58093, y: 101.12604}
+        - {x: -73.58093, y: -100.87396}
+        - {x: -72.58093, y: -103.87396}
+        - {x: 73.41907, y: -103.87396}
+        - {x: 75.41907, y: -101.87396}
+        - {x: 75.41907, y: 102.12604}
+        - {x: 74.41907, y: 104.12604}
+    - name: Cards_design_update_37
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 378
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.315674, y: 102.12604}
+        - {x: 72.315674, y: 104.12604}
+        - {x: -71.684326, y: 104.12604}
+        - {x: -73.684326, y: 102.12604}
+        - {x: -73.684326, y: -101.87396}
+        - {x: -71.684326, y: -103.87396}
+        - {x: 73.315674, y: -103.87396}
+        - {x: 75.315674, y: -102.87396}
+    - name: Cards_design_update_38
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 378
+        width: 240
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.614136, y: 104.12604}
+        - {x: -72.614136, y: 102.12604}
+        - {x: -72.614136, y: -101.87396}
+        - {x: -70.614136, y: -103.87396}
+        - {x: 74.385864, y: -103.87396}
+        - {x: 74.385864, y: 104.12604}
+    - name: Cards_design_update_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 23
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.41439, y: 104.00238}
+        - {x: -71.58561, y: 104.00238}
+        - {x: -73.58561, y: 103.00238}
+        - {x: -73.58561, y: -100.99762}
+        - {x: -71.58561, y: -103.99762}
+        - {x: 72.41439, y: -103.99762}
+        - {x: 75.41439, y: -101.99762}
+        - {x: 75.41439, y: 102.00238}
+    - name: Cards_design_update_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 23
+        width: 240
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.01546, y: 104.00238}
+        - {x: -73.01546, y: 102.00238}
+        - {x: -73.01546, y: -101.99762}
+        - {x: -71.01546, y: -103.99762}
+        - {x: 72.98454, y: -103.99762}
+        - {x: 74.98454, y: -101.99762}
+        - {x: 74.98454, y: 103.00238}
+        - {x: 73.98454, y: 104.00238}
+    - name: Cards_design_update_41
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 23
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.3371, y: 104.00238}
+        - {x: -73.6629, y: 104.00238}
+        - {x: -73.6629, y: -101.99762}
+        - {x: -71.6629, y: -103.99762}
+        - {x: 73.3371, y: -103.99762}
+        - {x: 75.3371, y: -102.99762}
+        - {x: 75.3371, y: 102.00238}
+    - name: Cards_design_update_42
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 23
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.40726, y: 104.00238}
+        - {x: -72.59274, y: 104.00238}
+        - {x: -73.59274, y: 102.00238}
+        - {x: -73.59274, y: -101.99762}
+        - {x: -72.59274, y: -103.99762}
+        - {x: 72.40726, y: -103.99762}
+        - {x: 75.40726, y: -101.99762}
+        - {x: 75.40726, y: 102.00238}
+    - name: Cards_design_update_43
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 23
+        width: 240
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.02258, y: 104.00238}
+        - {x: -73.02258, y: 102.00238}
+        - {x: -73.02258, y: -101.99762}
+        - {x: -71.02258, y: -103.99762}
+        - {x: 72.97742, y: -103.99762}
+        - {x: 74.97742, y: -101.99762}
+        - {x: 74.97742, y: 103.00238}
+        - {x: 73.97742, y: 104.00238}
+    - name: Cards_design_update_44
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 23
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.329956, y: 104.00238}
+        - {x: -73.670044, y: 104.00238}
+        - {x: -73.670044, y: -101.99762}
+        - {x: -71.670044, y: -103.99762}
+        - {x: 73.329956, y: -103.99762}
+        - {x: 75.329956, y: -102.99762}
+        - {x: 75.329956, y: 102.00238}
+    - name: Cards_design_update_45
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 23
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.599915, y: 104.00238}
+        - {x: -73.599915, y: 103.00238}
+        - {x: -73.599915, y: -101.99762}
+        - {x: -72.599915, y: -103.99762}
+        - {x: 72.400085, y: -103.99762}
+        - {x: 75.400085, y: -101.99762}
+        - {x: 75.400085, y: 104.00238}
+    - name: Cards_design_update_46
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 23
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.747314, y: 104.00238}
+        - {x: -73.747314, y: 102.00238}
+        - {x: -73.747314, y: -100.99762}
+        - {x: -71.747314, y: -103.99762}
+        - {x: 73.252686, y: -103.99762}
+        - {x: 75.252686, y: -101.99762}
+        - {x: 75.252686, y: 103.00238}
+        - {x: 74.252686, y: 104.00238}
+    - name: Cards_design_update_47
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 23
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.322754, y: 104.00238}
+        - {x: -73.677246, y: 104.00238}
+        - {x: -73.677246, y: -101.99762}
+        - {x: -71.677246, y: -103.99762}
+        - {x: 72.322754, y: -103.99762}
+        - {x: 75.322754, y: -101.99762}
+        - {x: 75.322754, y: 102.00238}
+    - name: Cards_design_update_48
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 20
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.392944, y: 101.17598}
+        - {x: 73.392944, y: 104.17598}
+        - {x: -71.607056, y: 104.17598}
+        - {x: -73.607056, y: 103.17598}
+        - {x: -73.607056, y: -102.82402}
+        - {x: -72.607056, y: -103.82402}
+        - {x: 73.392944, y: -103.82402}
+        - {x: 75.392944, y: -101.82402}
+    - name: Cards_design_update_49
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 20
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.75452, y: 104.17598}
+        - {x: -73.75452, y: 101.17598}
+        - {x: -73.75452, y: -101.82402}
+        - {x: -71.75452, y: -103.82402}
+        - {x: 73.24548, y: -103.82402}
+        - {x: 75.24548, y: -101.82402}
+        - {x: 75.24548, y: 102.17598}
+        - {x: 74.24548, y: 104.17598}
+    - name: Cards_design_update_50
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 20
+        width: 242
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.684326, y: 104.17598}
+        - {x: -73.684326, y: 102.17598}
+        - {x: -73.684326, y: -101.82402}
+        - {x: -71.684326, y: -103.82402}
+        - {x: 74.315674, y: -103.82402}
+        - {x: 75.315674, y: -101.82402}
+        - {x: 75.315674, y: 101.17598}
+        - {x: 73.315674, y: 104.17598}
+    - name: Cards_design_update_51
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 20
+        width: 240
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.614136, y: 104.17598}
+        - {x: -72.614136, y: 103.17598}
+        - {x: -72.614136, y: -102.82402}
+        - {x: -71.614136, y: -103.82402}
+        - {x: 74.385864, y: -103.82402}
+        - {x: 74.385864, y: 103.17598}
+        - {x: 73.385864, y: 104.17598}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

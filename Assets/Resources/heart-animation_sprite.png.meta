@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 9b275457e253244b2845a207293a152e
+timeCreated: 1455192096
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heart-animation_sprite_0
+    21300002: heart-animation_sprite_1
+    21300004: heart-animation_sprite_2
+    21300006: heart-animation_sprite_3
+    21300008: heart-animation_sprite_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: heart-animation_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133, y: 22}
+        - {x: 133, y: 64}
+        - {x: 121, y: 86}
+        - {x: 102, y: 107}
+        - {x: 82, y: 119}
+        - {x: 28, y: 119}
+        - {x: 7, y: 115}
+        - {x: -11, y: 119}
+        - {x: -78, y: 119}
+        - {x: -85, y: 118}
+        - {x: -122, y: 87}
+        - {x: -134, y: 64}
+        - {x: -134, y: 24}
+        - {x: -129, y: -2}
+        - {x: -106, y: -29}
+        - {x: -5, y: -119}
+        - {x: 4, y: -119}
+        - {x: 61, y: -71}
+        - {x: 115, y: -18}
+        - {x: 131, y: 7}
+    - name: heart-animation_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 78}
+        - {x: 67, y: 120}
+        - {x: -62, y: 120}
+        - {x: -70, y: 114}
+        - {x: -95, y: 88}
+        - {x: -99, y: 60}
+        - {x: -99, y: 5}
+        - {x: -84, y: -27}
+        - {x: -24, y: -117}
+        - {x: -15, y: -119}
+        - {x: 19, y: -119}
+        - {x: 59, y: -62}
+        - {x: 90, y: -10}
+        - {x: 97, y: 10}
+    - name: heart-animation_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 119}
+        - {x: -19, y: -119}
+        - {x: 18, y: -119}
+        - {x: 18, y: 119}
+    - name: heart-animation_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 75}
+        - {x: 87, y: 99}
+        - {x: 59, y: 120}
+        - {x: -56, y: 120}
+        - {x: -71, y: 112}
+        - {x: -90, y: 91}
+        - {x: -99, y: 66}
+        - {x: -99, y: 19}
+        - {x: -98, y: 7}
+        - {x: -84, y: -27}
+        - {x: -17, y: -119}
+        - {x: 14, y: -119}
+        - {x: 64, y: -54}
+        - {x: 93, y: -11}
+        - {x: 97, y: 17}
+    - name: heart-animation_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133, y: 55}
+        - {x: 132, y: 63}
+        - {x: 117, y: 92}
+        - {x: 78, y: 119}
+        - {x: -77, y: 119}
+        - {x: -85, y: 118}
+        - {x: -120, y: 93}
+        - {x: -134, y: 62}
+        - {x: -134, y: 20}
+        - {x: -131, y: 7}
+        - {x: -106, y: -30}
+        - {x: -69, y: -66}
+        - {x: -4, y: -119}
+        - {x: 9, y: -119}
+        - {x: 116, y: -20}
+        - {x: 129, y: 11}
+        - {x: 133, y: 21}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
